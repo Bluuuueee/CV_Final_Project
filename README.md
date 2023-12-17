@@ -11,3 +11,7 @@ Run
 foo@bar:~$ python3 main.py
 ```
 to start the training process. Note that for differnet modifications, you may need to change to the corresponding .yaml model file in the main.py file.
+
+# Results
+![alt text](https://github.com/Pinze-Yu/CV_Final_Project/blob/main/PR_curve_results.png?raw=True)
+![alt text](https://github.com/Pinze-Yu/CV_Final_Project/blob/main/results_table.png?raw=True)
