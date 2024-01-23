@@ -1,5 +1,6 @@
+Repository originally organized and published by Pinze Yu, New York University.
 # Better Small Object Detection with SOTA modifications on YOLOv8
-Final Project for Computer Vision (CSCI-GA 2271) with Prof. Rob Fergus @Fall 2023.
+Final Project for Computer Vision (CSCI-GA 2271) with Prof. Rob Fergus @Fall 2023. 
 
 
 
